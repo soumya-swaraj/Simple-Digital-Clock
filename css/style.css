@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#box {
+    height: 100vh;
+    width: 100%;
+    border: 5px solid #C1CFC0;
+    background-color: #11324D;
+    color: #C1CFC0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Open Sans', sans-serif;
+}
